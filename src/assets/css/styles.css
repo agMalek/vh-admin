@@ -1,0 +1,33 @@
+.table td, .table th {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 18px;
+
+
+}
+
+.showFormButton{
+   margin-left: 48%;
+}
+/* 
+
+.mainLogo{
+    
+    align-items: center;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+
+
+} */
+
+
+.probando{
+    color: rgb(15, 196, 242);
+    /* text-align: center; */
+    display: flex;
+    /* justify-content: center; */
+    /* background-color: rgb(7, 23, 114); */
+    padding: 6px;
+    font-size: 13px;
+}
